@@ -1,4 +1,4 @@
-굿모닝 줄무늬 찹쌀떡
+<em>굿모닝 줄무늬 찹쌀떡</em>
 
 Graduation Term Project
 
