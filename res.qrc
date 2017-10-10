@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="number">
-    <file>vv.png</file>
-  </qresource>
-  <qresource prefix="background">
-    <file>back.jpg</file>
-    <file>grid.png</file>
-  </qresource>
-</RCC>
